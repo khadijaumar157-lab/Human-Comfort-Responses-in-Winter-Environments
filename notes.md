@@ -1,4 +1,4 @@
-# Research Notes – Human Comfort Responses in Winter Environments
+**Research Notes – Human Comfort Responses in Winter Environments**
 
 **Project Overview:**  
 This file documents my observations, reflections, and key takeaways while exploring how humans experience comfort in cold winter environments. It complements my essay and references in the repository.
