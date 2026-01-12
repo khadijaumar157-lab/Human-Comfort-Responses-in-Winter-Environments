@@ -1,4 +1,4 @@
-# Human Comfort Responses in Winter Environments
+ # Human Comfort Responses in Winter Environments
 
 This project documents my personal exploration of **how humans respond to cold winter environments** and what factors contribute to comfort. The idea has fascinated me since childhood: how people seek warmth, the cozy sensation of blankets, warm drinks in hand, and hot showers. This curiosity led me to observe, read, and write an essay exploring both the **cognitive and physical effects of cold exposure**.
 
@@ -32,7 +32,7 @@ This project documents my personal exploration of **how humans respond to cold w
  ---  
 
 - **Documentation:**  
-- **Full Essay (PDF):** [Human Comfort Winter Essay](Human Comfort Responses in Winter Environments.pdf)  
+- **Full Essay (PDF):** [Human Comfort Winter Essay] (Human Comfort Responses in Winter Environments.pdf.md)  
 - **Research Notes:** [notes.md](notes.md)  
 - **Citations / References:** [references.md](citations.md)
 
