@@ -1,5 +1,4 @@
 # References – Human Comfort Responses in Winter
-# References – Human Comfort Responses in Winter
 
 1. Palinkas, L. A. (2001). *Mental and Cognitive Performance in the Cold.* International Journal of Circumpolar Health, 60(3), 430–439. [https://doi.org/10.1080/22423982.2001.12113048](https://doi.org/10.1080/22423982.2001.12113048)
 
