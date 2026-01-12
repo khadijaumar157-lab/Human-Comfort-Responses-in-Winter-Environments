@@ -7,7 +7,7 @@ This project documents my personal exploration of **how humans respond to cold w
 ## 🔍 Motivation & Process
 
 - **Personal Interest:**  
-  I have always been intrigued by the subtle ways humans seek comfort during winter. There is something beautiful in the season—the feeling of being wrapped in a blanket, sipping a warm drink, or enjoying a hot shower. I wanted to understand **what makes these experiences physically and mentally beneficial**.
+  I have always been intrigued by the subtle ways humans seek comfort during winter. There is something beautiful in the season, the feeling of being wrapped in a blanket, sipping a warm drink, or enjoying a hot shower. I wanted to understand **what makes these experiences physically and mentally beneficial**.
 
 - **Active Observation:**  
   I focused on three key factors that often provide comfort:  
