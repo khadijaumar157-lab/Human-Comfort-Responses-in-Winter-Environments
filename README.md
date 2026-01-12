@@ -21,8 +21,8 @@ This project documents my personal exploration of **how humans respond to cold w
   3. Read and synthesized the following scientific literature:
      # References – Human Comfort Responses in Winter
      Read and synthesized the following scientific literature:  
-     - Palinkas, L. A. (2001). *Mental and Cognitive Performance in the Cold.* [Link](https://doi.org/10.1080/22423982.2001.12113048)  
-     - Falla, M. et al. (2021). *Effect of Cold Exposure on Cognitive Performance.* [Link](https://doi.org/10.3390/ijerph18189725)  
+     - Palinkas, L. A. (2001). *Mental and Cognitive Performance in the Cold.*  
+     - Falla, M. et al. (2021). *Effect of Cold Exposure on Cognitive Performance.* 
      - Sun, B. et al. (2022). *Human Mood and Cognitive Function after Extreme Cold Exposure.*  
      - Danilenko, K. V. et al. (1994). *Seasonal variations of melatonin and serotonin.*  
      - Romu, T. et al. (2016). *Cold-exposure and brown adipose tissue volume.*  
@@ -33,8 +33,8 @@ This project documents my personal exploration of **how humans respond to cold w
 
 - **Documentation:**  
 - **Full Essay (PDF):** [Human Comfort Winter Essay](essay/Human_Comfort_Winter_Essay.pdf)  
-- **Research Notes:** [research_notes.md](notes/research_notes.md)  
-- **Citations / References:** [references.md](citations/references.md)
+- **Research Notes:** [research_notes.md](notes/notes.md)  
+- **Citations / References:** [references.md](citations.md)
 
 ---
 
