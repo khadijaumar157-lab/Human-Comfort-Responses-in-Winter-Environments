@@ -32,7 +32,7 @@ This project documents my personal exploration of **how humans respond to cold w
  ---  
 
 - **Documentation:**  
-- **Full Essay (PDF):** [Human Comfort Winter Essay] (Human Comfort Responses in Winter Environments.pdf.md)  
+- **Full Essay (PDF):** [Human Comfort Winter Essay] (Human Comfort Responses in Winter Environments.md)  
 - **Research Notes:** [notes.md](notes.md)  
 - **Citations / References:** [references.md](citations.md)
 
