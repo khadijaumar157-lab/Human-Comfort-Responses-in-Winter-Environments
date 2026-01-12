@@ -32,9 +32,9 @@ This project documents my personal exploration of **how humans respond to cold w
  ---  
 
 - **Documentation:**  
-  - Essay is compiled in the `essay.md folder.  
-  - References are in `citations.md folder. 
-  - Notes from reading and synthesis are in `notes.md`.
+- **Full Essay (PDF):** [Human Comfort Winter Essay](essay/Human_Comfort_Winter_Essay.pdf)  
+- **Research Notes:** [research_notes.md](notes/research_notes.md)  
+- **Citations / References:** [references.md](citations/references.md)
 
 ---
 
